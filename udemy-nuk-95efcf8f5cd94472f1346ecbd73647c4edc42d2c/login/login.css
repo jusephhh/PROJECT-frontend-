@@ -1,5 +1,5 @@
 body{
-	background-color: white;
+	background-color: #e4e4e4;
 	margin: 0%;
 	padding: 0%;
 
@@ -7,6 +7,14 @@ body{
 
 .navbar {
 	height: 70px;
+}
+
+#sign_in {
+    font-size: 100px;
+    margin-top: 70px;
+    margin-left: 40px;
+	color: rgba(128, 128, 128, 0.425);
+	background-color: transparent;
 }
 
 .title {
@@ -17,6 +25,14 @@ body{
 	background-color: #e4e4e4;
 }
 
+.container_ {
+	margin-top: 250px;
+	background-color: transparent;
+}
+
+.footer {
+	padding: 17px;
+}
 
 .container .row .card_footer a {
 	color: #297e21;

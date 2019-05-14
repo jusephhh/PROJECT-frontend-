@@ -80,15 +80,21 @@ body {
 }
 
 .carousel{
-    height: 300px;
-    width: 900px;
+    height: 328px;
+    width: 4px;
     margin-top: 5px;
     margin-left: 150px;
 }
 
+.carousel-inner {
+    height: 200px;
+    width: 300px;
+    margin-left: 123px;
+}
+
 .carousel-inner .carousel-item img {
     height: 200px;
-    width: 700px;
+    width: 300px;
 
 }
 
@@ -99,7 +105,7 @@ body {
 }
 
 .section .container p{
-    margin-top: -80px;
+    margin-top: -27px;
     background-color: transparent;
     margin-bottom: 50px;
     color: black;
@@ -111,7 +117,7 @@ body {
 
 .navtabs ul {
     text-align: center;
-    margin-left: 415px;
+    margin-left: 480px;
     margin-top: 10px;
     
 }
@@ -163,7 +169,18 @@ body {
     color: rgba(128, 128, 128, 0.425);
 }
 
+#profile_posts {
+    margin-top: 30px;
+    margin-left: 40px;
+    font-size: 80px;
+    color: rgba(128, 128, 128, 0.425);
+}
 
+#posts_cards {
+    text-align: center;
+    margin: 50px; 
+    margin-top: -22px;
+}
 
 
 .footer {

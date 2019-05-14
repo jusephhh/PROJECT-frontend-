@@ -1,0 +1,47 @@
+
+
+body {
+    background-color: white;
+}
+
+.navbar{
+    height: 80px;
+    margin: 0%;
+    background-color: #297e21;
+}
+
+
+.wrapper {
+    margin-top: -250px;
+}
+
+.page-header {
+    background-color: transparent;
+}
+
+#register {
+    font-size: 100px;
+    margin-top: 70px;
+    margin-left: 40px;
+    color: rgba(128, 128, 128, 0.425);
+}
+
+.container .brand {
+    color: #297e21;
+    font-weight: 300;
+}
+
+
+
+
+.footer {
+    background-color: #297e21;
+}
+
+.footer .container {
+    color: white;
+}
+
+.footer .container .copyright a {
+    color: white;
+}
