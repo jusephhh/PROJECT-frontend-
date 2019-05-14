@@ -1,0 +1,95 @@
+body{
+	background-color: #e4e4e4;
+	margin: 0%;
+	padding: 0%;
+
+}
+
+.navbar {
+	height: 70px;
+}
+
+#sign_in {
+    font-size: 100px;
+    margin-top: 70px;
+    margin-left: 40px;
+	color: rgba(128, 128, 128, 0.425);
+	background-color: transparent;
+}
+
+.title {
+	color: #297e21;
+}
+
+.btn-round {
+	background-color: #e4e4e4;
+}
+
+.container_ {
+	margin-top: 250px;
+	background-color: transparent;
+}
+
+.footer {
+	padding: 17px;
+}
+
+.container .row .card_footer a {
+	color: #297e21;
+}
+
+
+.wrapper .container_forms .row{
+	margin-top: -30px;
+}
+
+.container_forms .row .sign_in {
+	text-align: center;
+	margin-top: -50px;
+}
+
+#username {
+	width: 50%;
+	margin-left: 220px;
+}
+
+#password {
+	width: 50%;
+	margin-left: 220px;
+}
+
+.remember_pass {
+	color: #297e21;
+}
+
+.input-group-focus {
+	border-color: #297e21;
+}
+
+
+.container .row .card_footer a:hover {
+	color: #e4e4e4;
+	background-color: rgb(41, 126, 33);
+}
+
+.footer {
+	background-color: rgb(41, 126, 33);
+	color: white;
+	height: 70px;
+}
+
+.footer .container nav {
+	text-align: center;
+	margin-top: 10px;
+}
+
+.footer .copyright {
+	margin-left: 60px;
+	margin-top: 10px;
+}
+
+.footer .copyright a{
+	color: white;
+}
+
+
