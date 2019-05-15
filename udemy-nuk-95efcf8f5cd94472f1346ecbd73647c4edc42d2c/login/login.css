@@ -48,6 +48,13 @@ body{
 	margin-top: -50px;
 }
 
+.form-group .form-control, .input-group .form-control {
+    border: 1px solid #297e21;
+    color: #297e21;
+    font-weight: 400;
+}
+
+
 #username {
 	width: 50%;
 	margin-left: 220px;
